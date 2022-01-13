@@ -1,6 +1,5 @@
 
-# Pandas Library
-
+# ML Libraries
 A brief description of what this project does and who it's for
 
 The repository contains operations and methods of Numpy, Pandas and Matplotlib
